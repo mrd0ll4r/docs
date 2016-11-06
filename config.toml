@@ -36,7 +36,7 @@ theme = "hugo-material-docs"
 
 [[menu.main]]
   name = "v2 Documentation"
-  url = "/"
+  url = "/docs/v2/"
   weight = 2
 
 [[menu.main]]
