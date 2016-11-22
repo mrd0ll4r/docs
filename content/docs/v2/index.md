@@ -6,6 +6,12 @@ title = "Chihaya v2 Documentation"
 
 TODO add information about architecture etc.
 
+## Configuration
+
+Chihaya uses a single YAML file for configuration.
+An example configuration file is included as `example_config.yaml`.
+Find more info in [the documentation](/docs/v2/config/).
+
 ## Middleware
 
 Several hooks are already included in the Chihaya repository.
